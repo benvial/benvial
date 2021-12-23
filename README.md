@@ -2,10 +2,41 @@
 
 I am a postdoctoral researcher in [Queen Mary University of London](https://www.qmul.ac.uk/), working in the [Antennas and Electromagnetics research group](https://antennas.eecs.qmul.ac.uk/).
 
+## About me
+
 My research is mainly focused on Electromagnetism including metamaterials, Transformation Optics, homogenization techniques, resonant phenomena, light-matter interaction, scattering, diffraction, modal analysis, and topology optimization, for applications in Optics, Photonics and microwave engineering.
 
-I develop open-source numerical tools, mostly in Python, that are useful for my research.
+### Follow me
 
+
+<a target="_blank" href="https://gitlab.com/benvial">
+<img src="https://img.shields.io/static/v1?label=&message=website&color=d05a65&style=for-the-badge&logo=TorBrowser&labelColor=555555&?logoColor=white">
+</a>
+<a target="_blank" href="https://gitlab.com/benvial">
+<img src="https://img.shields.io/static/v1?label=&message=gitlab&color=FCA121&style=for-the-badge&logo=gitlab&labelColor=555555&?logoColor=white">
+</a>
+<a target="_blank" href="https://github.com/benvial">
+<img src="https://img.shields.io/static/v1?label=&message=github&color=2088FF&style=for-the-badge&logo=github&labelColor=555555&logoColor=white">
+</a>
+<a target="_blank" href="https://www.researchgate.net/profile/Benjamin-Vial">
+<img src="https://img.shields.io/static/v1?label=&message=researchgate&color=00CCBB&style=for-the-badge&logo=researchgate&labelColor=555555&logoColor=white">
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/benjamin-vial-701018b9">
+<img src="https://img.shields.io/static/v1?label=&message=linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&labelColor=555555&logoColor=white">
+</a>
+<a target="_blank" href="https://scholar.google.co.uk/citations?user=2Z7zJqYAAAAJ">
+<img src="https://img.shields.io/static/v1?label=&message=google scholar&color=4285F4&style=for-the-badge&logo=googlescholar&labelColor=555555&logoColor=white">
+</a>
+<a target="_blank" href="https://arxiv.org/search/physics?searchtype=author&query=Vial%2C+B">
+<img src="https://img.shields.io/static/v1?label=&message=arXiv&color=B31B1B&style=for-the-badge&logo=arXiv&labelColor=555555&logoColor=white">
+</a>
+
+
+
+## Code
+
+
+I develop open-source numerical tools, mostly in Python, that are useful for my research.
 
 
 
