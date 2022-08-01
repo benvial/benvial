@@ -1,10 +1,10 @@
 # Hello, I'm Ben
 
-I am a postdoctoral researcher in [Queen Mary University of London](https://www.qmul.ac.uk/), working in the [Antennas and Electromagnetics research group](https://antennas.eecs.qmul.ac.uk/).
+I am a Research Assistant in [Imperial College London](https://www.imperial.ac.uk), working in the [Department of Mathematics](https://www.imperial.ac.uk/mathematics/).
 
 ## About me
 
-My research is mainly focused on Electromagnetism including metamaterials, Transformation Optics, homogenization techniques, resonant phenomena, light-matter interaction, scattering, diffraction, modal analysis, and topology optimization, for applications in Optics, Photonics and microwave engineering.
+My research is mainly focused on wave physics including metamaterials, Transformation Optics, homogenization techniques, resonant phenomena, light-matter interaction, scattering, diffraction, modal analysis, and topology optimization, for applications in Photonics and Mechanics.
 
 ### Follow me
 
