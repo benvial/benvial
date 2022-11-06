@@ -43,7 +43,7 @@ I develop open-source numerical tools, mostly in Python, that are useful for my 
 
 ### gyptis
 
-<a class="reference external image-reference" href="https://gitlab.com/gyptis/gyptis/-/releases" target="_blank"><img alt="Release" src="https://img.shields.io/endpoint?url=https://gitlab.com/gyptis/gyptis/-/jobs/artifacts/master/file/logobadge.json?job=badge"></a>
+<a class="reference external image-reference" href="https://gitlab.com/gyptis/gyptis/-/releases" target="_blank"><img alt="Release" src="https://img.shields.io/endpoint?url=https://gitlab.com/gyptis/gyptis/-/jobs/artifacts/master/raw/logobadge.json?job=badge"></a>
 
 
 *Computational Photonics in Python with the finite element method.*
@@ -55,7 +55,7 @@ I develop open-source numerical tools, mostly in Python, that are useful for my 
 
 ### nannos
 
-<a class="reference external image-reference" href="https://gitlab.com/nannos/nannos/-/releases" target="_blank"><img alt="Release" src="https://img.shields.io/endpoint?url=https://gitlab.com/nannos/nannos/-/jobs/artifacts/master/file/logobadge.json?job=badge"></a>
+<a class="reference external image-reference" href="https://gitlab.com/nannos/nannos/-/releases" target="_blank"><img alt="Release" src="https://img.shields.io/endpoint?url=https://gitlab.com/nannos/nannos/-/jobs/artifacts/master/raw/logobadge.json?job=badge"></a>
 
 
 
@@ -69,7 +69,7 @@ I develop open-source numerical tools, mostly in Python, that are useful for my 
 
 ### protis
 
-<a class="reference external image-reference" href="https://gitlab.com/protis/protis/-/releases" target="_blank"><img alt="Release" src="https://img.shields.io/endpoint?url=https://gitlab.com/protis/protis/-/jobs/artifacts/main/file/logobadge.json?job=badge"></a>
+<a class="reference external image-reference" href="https://gitlab.com/protis/protis/-/releases" target="_blank"><img alt="Release" src="https://img.shields.io/endpoint?url=https://gitlab.com/protis/protis/-/jobs/artifacts/main/raw/logobadge.json?job=badge"></a>
 
 
 
@@ -83,7 +83,7 @@ I develop open-source numerical tools, mostly in Python, that are useful for my 
 
 ### refidx
 
-<a class="reference external image-reference" href="https://gitlab.com/benvial/refidx/-/releases" target="_blank"><img alt="Release" src="https://img.shields.io/endpoint?url=https://gitlab.com/benvial/refidx/-/jobs/artifacts/main/file/logobadge.json?job=badge&labelColor=8f8f8f"></a>
+<a class="reference external image-reference" href="https://gitlab.com/benvial/refidx/-/releases" target="_blank"><img alt="Release" src="https://img.shields.io/endpoint?url=https://gitlab.com/benvial/refidx/-/jobs/artifacts/main/raw/logobadge.json?job=badge&labelColor=8f8f8f"></a>
 
 
 
@@ -95,7 +95,7 @@ I develop open-source numerical tools, mostly in Python, that are useful for my 
 
 ### coaxtract
 
-<a class="reference external image-reference" href="https://gitlab.com/benvial/coaxtract/-/releases" target="_blank"><img alt="Release" src="https://img.shields.io/endpoint?url=https://gitlab.com/benvial/coaxtract/-/jobs/artifacts/main/file/logobadge.json?job=badge"></a>
+<a class="reference external image-reference" href="https://gitlab.com/benvial/coaxtract/-/releases" target="_blank"><img alt="Release" src="https://img.shields.io/endpoint?url=https://gitlab.com/benvial/coaxtract/-/jobs/artifacts/main/raw/logobadge.json?job=badge"></a>
 
 
 
@@ -107,7 +107,7 @@ I develop open-source numerical tools, mostly in Python, that are useful for my 
 
 ### cpwxtract
 
-<a class="reference external image-reference" href="https://gitlab.com/benvial/cpwxtract/-/releases" target="_blank"><img alt="Release" src="https://img.shields.io/endpoint?url=https://gitlab.com/benvial/cpwxtract/-/jobs/artifacts/main/file/logobadge.json?job=badge"></a>
+<a class="reference external image-reference" href="https://gitlab.com/benvial/cpwxtract/-/releases" target="_blank"><img alt="Release" src="https://img.shields.io/endpoint?url=https://gitlab.com/benvial/cpwxtract/-/jobs/artifacts/main/raw/logobadge.json?job=badge"></a>
 
 
 
