@@ -77,7 +77,34 @@ I develop open-source numerical tools, mostly in Python, that are useful for my 
 
 [protis.gitlab.io](https://protis.gitlab.io)
 
+--------------------
 
+### pylatt
+
+<a class="reference external image-reference" href="https://gitlab.com/benvial/pylatt/-/releases" target="_blank"><img alt="Release" src="https://img.shields.io/endpoint?url=https://gitlab.com/benvial/pylatt/-/jobs/artifacts/main/raw/logobadge.json?job=badge"></a>
+
+
+
+
+*Phononic lattices in Python.*
+
+
+[benvial.gitlab.io/pylatt](https://benvial.gitlab.io/pylatt)
+
+
+--------------------
+
+### klove
+
+<a class="reference external image-reference" href="https://gitlab.com/benvial/klove/-/releases" target="_blank"><img alt="Release" src="https://img.shields.io/endpoint?url=https://gitlab.com/benvial/klove/-/jobs/artifacts/main/raw/logobadge.json?job=badge"></a>
+
+
+
+
+*Elastic plates.*
+
+
+[benvial.gitlab.io/klove](https://benvial.gitlab.io/klove)
 
 --------------------
 
