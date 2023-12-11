@@ -108,6 +108,34 @@ I develop open-source numerical tools, mostly in Python, that are useful for my 
 
 --------------------
 
+### ashx
+
+<a class="reference external image-reference" href="https://gitlab.com/benvial/ashx/-/releases" target="_blank"><img alt="Release" src="https://img.shields.io/endpoint?url=https://gitlab.com/benvial/ashx/-/jobs/artifacts/main/raw/logobadge.json?job=badge"></a>
+
+
+
+
+*FEniCSx tools.*
+
+
+[benvial.gitlab.io/ashx](https://benvial.gitlab.io/ashx)
+
+--------------------
+
+### geolia
+
+<a class="reference external image-reference" href="https://gitlab.com/benvial/geolia/-/releases" target="_blank"><img alt="Release" src="https://img.shields.io/endpoint?url=https://gitlab.com/benvial/geolia/-/jobs/artifacts/main/raw/logobadge.json?job=badge"></a>
+
+
+
+
+*Geometry and mesh tools.*
+
+
+[benvial.gitlab.io/geolia](https://benvial.gitlab.io/geolia)
+
+--------------------
+
 ### refidx
 
 <a class="reference external image-reference" href="https://gitlab.com/benvial/refidx/-/releases" target="_blank"><img alt="Release" src="https://img.shields.io/endpoint?url=https://gitlab.com/benvial/refidx/-/jobs/artifacts/main/raw/logobadge.json?job=badge&labelColor=8f8f8f"></a>
