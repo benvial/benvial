@@ -1,10 +1,10 @@
 # Hello, I'm Ben
 
-I am a Research Assistant in [Imperial College London](https://www.imperial.ac.uk), working in the [Department of Mathematics](https://www.imperial.ac.uk/mathematics/).
+I am a Research Associate at [Imperial College London](https://www.imperial.ac.uk), working in the [Department of Mathematics](https://www.imperial.ac.uk/mathematics/).
 
 ## About me
 
-My research is mainly focused on wave physics including metamaterials, Transformation Optics, homogenization techniques, resonant phenomena, light-matter interaction, scattering, diffraction, modal analysis, and topology optimization, for applications in Photonics and Mechanics.
+My research is mainly focused on wave physics including metamaterials, scattering, diffraction, modal analysis, numerical methods, topology optimization, resonant phenomena, Transformation Optics and homogenization techniques, for applications in Photonics and Mechanics.
 
 ### Follow me
 
@@ -21,7 +21,6 @@ My research is mainly focused on wave physics including metamaterials, Transform
 <a target="_blank" href="https://github.com/benvial">
 <img src="https://img.shields.io/static/v1?label=&message=github&color=2088FF&style=for-the-badge&logo=github&labelColor=555555&logoColor=white">
 </a>
-<p></p>
 <a target="_blank" href="https://www.researchgate.net/profile/Benjamin-Vial">
 <img src="https://img.shields.io/static/v1?label=&message=researchgate&color=00CCBB&style=for-the-badge&logo=researchgate&labelColor=555555&logoColor=white">
 </a>
