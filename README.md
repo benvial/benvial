@@ -10,10 +10,10 @@ My research is mainly focused on wave physics including metamaterials, scatterin
 
 
 <a target="_blank" href="https://bvial.info">
-<img src="https://img.shields.io/static/v1?label=&message=website&color=d05a65&style=for-the-badge&logo=TorBrowser&labelColor=555555&?logoColor=white">
+<img src="https://img.shields.io/static/v1?label=&message=website&color=29b093&style=for-the-badge&logo=TorBrowser&labelColor=555555&?logoColor=white">
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/benjamin-vial-701018b9">
-<img src="https://img.shields.io/static/v1?label=&message=linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&labelColor=555555&logoColor=white">
+<img src="https://img.shields.io/static/v1?label=&message=linkedin&color=0A66C2&style=for-the-badge&logo=inspire&labelColor=555555&logoColor=white">
 </a>
 <a target="_blank" href="https://gitlab.com/benvial">
 <img src="https://img.shields.io/static/v1?label=&message=gitlab&color=FCA121&style=for-the-badge&logo=gitlab&labelColor=555555&?logoColor=white">
