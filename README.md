@@ -25,7 +25,7 @@ My research is mainly focused on wave physics including metamaterials, scatterin
 <img src="https://img.shields.io/static/v1?label=&message=researchgate&color=00CCBB&style=for-the-badge&logo=researchgate&labelColor=555555&logoColor=white">
 </a>
 <a target="_blank" href="https://scholar.google.co.uk/citations?user=2Z7zJqYAAAAJ">
-<img src="https://img.shields.io/static/v1?label=&message=google scholar&color=4285F4&style=for-the-badge&logo=googlescholar&labelColor=555555&logoColor=white">
+<img src="https://img.shields.io/static/v1?label=&message=google%20scholar&color=4285F4&style=for-the-badge&logo=googlescholar&labelColor=555555&logoColor=white">
 </a>
 <a target="_blank" href="https://arxiv.org/search/physics?searchtype=author&query=Vial%2C+B">
 <img src="https://img.shields.io/static/v1?label=&message=arXiv&color=B31B1B&style=for-the-badge&logo=arXiv&labelColor=555555&logoColor=white">
