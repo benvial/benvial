@@ -1,6 +1,6 @@
 # Hello, I'm Ben
 
-I am a Research Associate at [Imperial College London](https://www.imperial.ac.uk), working in the [Department of Mathematics](https://www.imperial.ac.uk/mathematics/).
+I am a researcher and software developer.
 
 ## About me
 
